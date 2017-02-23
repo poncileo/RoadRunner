@@ -1,0 +1,11 @@
+{
+    "name": "poncileo/site",
+    "require": {},
+    "authors": [
+        {
+            "name": "Leonardo Ponciano",
+            "email": "poncileo@gmail.com"
+        }
+    ],
+    "require-dev": {}
+}
